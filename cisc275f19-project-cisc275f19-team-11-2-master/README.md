@@ -5,4 +5,4 @@ Scuba Diver: In this game mode the player will control a scuba diver and will tr
 
 Estuary Expedition: In this game mode the player will get a chance to control all of the species they took pictures of in the first game, which each species have slightly varing mechanics. For example creatures at the bottom of the food chain will be more focused on avoiding predators while a predator will be more focused on eating as much food as possible. 
 
-This Project is being coded in java using javafx
+This Project is coded in java using javafx
